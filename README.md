@@ -21,7 +21,7 @@ The figures below come from the notebook's summary cell. **Run the notebook on y
 
 ## Method
 
-1. **Winner and runner-up per constituency:** sort candidates by votes, take the top two in each constituency (`ac_number`).
+1. **Winner and runner-up per constituency:** sort candidates by votes, take the top two in each constituency.
 2. **Vote share:** winner's votes divided by total votes in the constituency.
 3. **Margin:** winner's votes minus runner-up's votes.
 4. **Party groups:** DMK, AIADMK, TVK, NTK, and Others (all remaining parties).
