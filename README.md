@@ -8,7 +8,6 @@ A Python analysis of the 2021 and 2026 Tamil Nadu Assembly election results, bui
 | **Q2** | The flip story | In how many constituencies did the winning party change, and where did the seats go? |
 | **Q6** | The margin of victory story | How did the average margin of victory change, and how many seats were won with more than 50% or less than 35% of the votes? |
 
-> Replace the placeholders in square brackets (for example `[your name]`) before you publish.
 
 ## Key findings
 
@@ -89,5 +88,3 @@ Python, pandas, Plotly, Jupyter Notebook, Power BI (for the exported CSVs).
 ## Author
 [Neelamma]
 
-**[Your name]**
-[LinkedIn URL] · [Email]
